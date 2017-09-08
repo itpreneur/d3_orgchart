@@ -18,6 +18,7 @@ Org Chart (Partial Graph Drawing)
   - Draw fixed nodes with the following features:
     - ‘Fill opacity’ of each node is proportional to its source count
     - ‘Outline thickness’ of each node is proportional to its target count
+    - Show employee name on mouseover (in browser)
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_7BE943FC4B3863EEC083A392944492DEA59C939D7E8E9E2F38FE9F7CC10A8183_1504771650474_image.png)
 
   - Things to note about the fixed nodes:
