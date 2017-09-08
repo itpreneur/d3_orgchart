@@ -3,7 +3,7 @@ var debug = true
 var fixedOnly = false
 var minXPadding = 0.25 // pct of node width
 var maxHorizontalFreeNodes = 5
-var maxVertFreeNodes = 9 // max children must be 12
+var maxVertFreeNodes = 9 
 
 var svgParams = {
   "width": 1000,
