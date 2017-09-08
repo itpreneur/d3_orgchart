@@ -1,11 +1,11 @@
 Org Chart (Partial Graph Drawing)
 
 - Overview
-  - Data: click here
+  - Data: click [here](http://www.graphdrawing.de/contest2009/gdcategories2009.html#OrgChart)
   - Format
     - Nodes: (name, width, height, x, y)
     - Edges: (source, target, x0, y0, … , xn, yn)
-      - ‘…’ are the bend points between source and target
+    - ‘…’ are the bend points between source and target
     - Any node or edge that only contain the bold attributes are free to move
   - 171 nodes and 170 directed edges
   - 101 nodes and 96 edges are fixed
@@ -13,7 +13,7 @@ Org Chart (Partial Graph Drawing)
   - The edges should be laid out in orthogonal fashion
   
 - Drawing fixed nodes
-  - Restructure the raw data into an appropriate csv format like this
+  - Restructure the raw data into an appropriate csv format
   - Load the data using d3.csv()
   - Draw fixed nodes with the following features:
     - ‘Fill opacity’ of each node is proportional to its source count
