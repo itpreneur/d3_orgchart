@@ -1,4 +1,4 @@
-Org Chart (Partial Graph Drawing)
+This is my attempt at the 2009 Graph Drawing competition: Org Chart (Partial Graph Drawing)
 
 - Overview
   - Data: click [here](http://www.graphdrawing.de/contest2009/gdcategories2009.html#OrgChart)
