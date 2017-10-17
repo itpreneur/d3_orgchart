@@ -1,6 +1,7 @@
-This is my attempt at the **2009 Graph Drawing competition**: Org Chart (Partial Graph Drawing)
+This is my attempt at the **2009 Graph Drawing competition** using **d3.js**
 
 - Overview
+  - Org Chart (Partial Graph Drawing)
   - Data: click [here](http://www.graphdrawing.de/contest2009/gdcategories2009.html#OrgChart)
   - Format
     - Nodes: (name, width, height, x, y)
